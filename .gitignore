@@ -1,5 +1,5 @@
 *
 !test_results/
-!test_results/yelpchi_test_embeddings_20251019_123436.npz
+!test_results/*.npz
 !.gitignore
 !.gitattributes
